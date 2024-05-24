@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @opcoimbra
 - 👀 I’m interested in game programming
-- 🌱 I’m currently learning the UE5
-- 💞️ I’m looking to collaborate on anything that i can help
+- 🌱 I’m currently working with UE5
 - 📫 How to reach me opcoimbra@gmail.com
 
 <!---
